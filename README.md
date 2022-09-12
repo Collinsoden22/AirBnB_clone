@@ -1,6 +1,6 @@
 
 <div>
-    <img src="web_static/images/icon.png">
+    <img src="web_static/images/icon.png" width="100px" height="100px">
 </div>
 
 <h1>
