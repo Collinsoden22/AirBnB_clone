@@ -4,9 +4,13 @@
 </div>
 
 <h1>
-Author: <center>Collins Oden</center>
+<center>
+Author <br>
+Collins Oden</center>
  </h1>
 
  <h3> 
-Title: Static Website Project
+Title: 
+<br>
+Static Website Project
  </h3>
